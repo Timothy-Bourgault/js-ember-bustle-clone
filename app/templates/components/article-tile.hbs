@@ -1,0 +1,31 @@
+{{#each article as |article|}}
+  {{#link-to 'article' article.id}}
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 articleImg">
+          <img class="articlePic" src={{article.image}} alt={{article.title}} {{action 'imageHide'}}>
+        </div>
+        <div class="col-xs-6">
+          <div class="row">
+            <div class="col-xs-12">
+              <h3>{{article.title}}</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <p>{{article.description}}</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-6">
+              <p>By {{article.author}}</p>
+            </div>
+            <div class="col-xs-6">
+              <p class="pull-right">{{article.date}}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{/link-to}}
+{{/each}}

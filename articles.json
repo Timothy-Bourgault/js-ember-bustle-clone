@@ -1,0 +1,38 @@
+{ "articles": [{
+    "image": "http://globalgamejam.org/sites/default/files/styles/game_sidebar__normal/public/game/featured_image/promo_5.png?itok=9dymM8JD",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author": "Jeffery Buchanan",
+    "date": "2016-10-25"
+  }, {
+    "image": "http://www.miataturbo.net/attachments/insert-bs-here-4/78009-random-pictures-thread-only-rule-before-after-kumquats-1682345-slide-slide-1-biz-stone-explains-how-he-turned-91-random-photos-into-movie-jpg?dateline=1370019848",
+    "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author": "Ron Steele",
+    "date": "2016-10-25"
+  }, {
+    "image": "http://dimamp.com/wp-content/gallery/funny-random/awesome-funny-random-photos-6.jpg",
+    "title": "Ut enim ad minim veniam, quis nostrud exercitation.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author": "Salvatore Sandoval",
+    "date": "2016-10-25"
+  }, {
+    "image": "http://media.giphy.com/media/9pE06ejyaQnh6/giphy.gif",
+    "title": "Ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author": "Tracy Griffin",
+    "date": "2016-10-25"
+  }, {
+    "image": "http://files.enjin.com.s3.amazonaws.com/32400/modules/forum/attachments/random_1372763455.jpg",
+    "title": "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author": "Doug Conner",
+    "date": "2016-10-25"
+  }, {
+    "image": "https://imgs.xkcd.com/comics/random_number.png",
+    "title": "Cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author": "Rodney Nelson",
+    "date": "2016-10-25"
+  }]
+}
